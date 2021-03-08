@@ -11,7 +11,7 @@ public class FXMLController implements Initializable {
     
     @FXML
     private void handleButtonAction(ActionEvent event) {
-        System.out.println("Bottone premuto!");
+        System.out.println("Bottone premuto!!");
     }
     
     @Override
